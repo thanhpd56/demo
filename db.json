@@ -46,6 +46,7 @@
     "customers": {
       "1": {
         "id": 1,
+        "name": "Phan Đăng Thành",
         "phone": "0987654789",
         "email": "a@gmail.com",
         "fbId": "1533220336761793",
