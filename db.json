@@ -1,14 +1,59 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "data": {
+    "threads": {
+      "1": {
+        "id": 1,
+        "postId": 1,
+        "ownerId": 1,
+        "createdAt": 100000000000,
+        "updatedAt": 100000000000,
+        "fbLastCommentId": 1
+      },
+      "2": {
+        "id": 2,
+        "postId": 1,
+        "ownerId": 1,
+        "createdAt": 100000000001,
+        "updatedAt": 100000000001,
+        "fbLastCommentId": 2
+      }
+    },
+    "posts": {
+      "1": {
+        "id": 1,
+        "fbId": "124389483948",
+        "content": "This is post content. Hello world",
+        "photos": [],
+        "createdAt": 100000000000,
+        "updatedAt": 100000000000,
+        "isIgnore": false,
+        "deletedAt": 100000000000
+      }
+    },
+    "comments": {
+      "1": {
+        "id": 1,
+        "postId": 1,
+        "fbId": "389438942389038",
+        "content": "Bài post quá hay",
+        "customerId": 1,
+        "fbPostId": "39038948334",
+        "createdAt": 100000000000,
+        "updatedAt": 100000000000,
+        "type": "TEXT"
+      }
+    },
+    "customers": {
+      "1": {
+        "id": 1,
+        "phone": "0987654789",
+        "email": "a@gmail.com",
+        "fbId": "1533220336761793",
+        "avatarUrl": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/12195997_812147095564907_7957494710239745869_n.jpg?oh=0c10887439809070d9c8664a78aa3ef7&oe=5AFBAB70",
+        "involveAdmins": [],
+        "createdAt": 100000000000,
+        "updatedAt": 100000000000
+      }
+    }
   }
 }
