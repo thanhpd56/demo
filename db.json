@@ -7,7 +7,8 @@
         "ownerId": 1,
         "createdAt": 100000000000,
         "updatedAt": 100000000000,
-        "fbLastCommentId": "389438942389038"
+        "fbLastCommentId": "389438942389038",
+        "unRead": 2
       },
       "2": {
         "id": 2,
@@ -15,7 +16,8 @@
         "ownerId": 1,
         "createdAt": 100000000001,
         "updatedAt": 100000000001,
-        "fbLastCommentId": "389438942389038"
+        "fbLastCommentId": "389438942389038",
+        "unRead": 0
       }
     },
     "posts": {
@@ -65,7 +67,8 @@
         "ownerId": 1,
         "createdAt": 100000000000,
         "updatedAt": 100000003000,
-        "fbLastCommentId": "389438942389038"
+        "fbLastCommentId": "389438942389038",
+        "unRead": 2
       },
       "3": {
         "id": 3,
@@ -73,7 +76,8 @@
         "ownerId": 2,
         "createdAt": 100004000001,
         "updatedAt": 100004000001,
-        "fbLastCommentId": "123"
+        "fbLastCommentId": "123",
+        "unRead": 2
       }
     },
     "posts": {
@@ -225,7 +229,8 @@
         "ownerId": 5,
         "createdAt": 100004000001,
         "updatedAt": 100004000001,
-        "fbLastCommentId": "fb6"
+        "fbLastCommentId": "fb6",
+        "unRead": 1
       }
     },
     "posts": {
