@@ -7,7 +7,7 @@
         "ownerId": 1,
         "createdAt": 100000000000,
         "updatedAt": 100000000000,
-        "fbLastCommentId": "389438942389038",
+        "fbLastCommentId": "fb_app_id_389438942389038",
         "unRead": 2
       },
       "2": {
@@ -16,7 +16,7 @@
         "ownerId": 1,
         "createdAt": 100000000001,
         "updatedAt": 100000000001,
-        "fbLastCommentId": "389438942389038",
+        "fbLastCommentId": "fb_app_id_389438942389038",
         "unRead": 0
       }
     },
@@ -36,7 +36,7 @@
       "1": {
         "id": 1,
         "postId": 1,
-        "fbId": "389438942389038",
+        "fbId": "fb_app_id_389438942389038",
         "content": "Bài post quá hay",
         "customerId": 1,
         "fbPostId": "39038948334",
@@ -67,7 +67,7 @@
         "ownerId": 1,
         "createdAt": 100000000000,
         "updatedAt": 100000003000,
-        "fbLastCommentId": "389438942389038",
+        "fbLastCommentId": "fb_app_id_389438942389038",
         "unRead": 2
       },
       "3": {
@@ -96,7 +96,7 @@
       "1": {
         "id": 1,
         "postId": 1,
-        "fbId": "389438942389038",
+        "fbId": "fb_app_id_389438942389038",
         "content": "Bài post quá hay",
         "customerId": 1,
         "fbPostId": "39038948334",
