@@ -216,5 +216,55 @@
         "updatedAt": 100000000000
       }
     }
+  },
+  "new": {
+    "threads": {
+      "6": {
+        "id": 6,
+        "postId": 1,
+        "ownerId": 5,
+        "createdAt": 100004000001,
+        "updatedAt": 100004000001,
+        "fbLastCommentId": "fb6"
+      }
+    },
+    "posts": {
+      "1": {
+        "id": 1,
+        "fbId": "124389483948",
+        "content": "This is post content. Hello world",
+        "photos": [],
+        "createdAt": 100000000000,
+        "updatedAt": 100000000000,
+        "isIgnore": false,
+        "deletedAt": 100000000000
+      }
+    },
+    "comments": {
+      "6": {
+        "id": 6,
+        "postId": 1,
+        "fbId": "fb6",
+        "content": "Tony Hoàng comment> tuyệt vời quá.",
+        "customerId": 5,
+        "fbPostId": "39038948334",
+        "createdAt": 100000000000,
+        "updatedAt": 100000000000,
+        "type": "TEXT"
+      }
+    },
+    "customers": {
+      "5": {
+        "id": 5,
+        "name": "Tony Hoàng",
+        "phone": "0985655789",
+        "email": "a@gmail.com",
+        "fbId": "1533220336761793",
+        "avatarUrl": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/12195997_812147095564907_7957494710239745869_n.jpg?oh=0c10887439809070d9c8664a78aa3ef7&oe=5AFBAB70",
+        "involveAdmins": [],
+        "createdAt": 100000000000,
+        "updatedAt": 100000000000
+      }
+    }
   }
 }
