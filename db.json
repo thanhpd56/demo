@@ -5,8 +5,8 @@
         "id": 1,
         "postId": 1,
         "ownerId": 1,
-        "createdAt": 100000000000,
-        "updatedAt": 100000000000,
+        "createdAt": 1519982766048,
+        "updatedAt": 1519982766048,
         "fbLastCommentId": "fb_app_id_389438942389038",
         "unRead": 2
       },
@@ -14,8 +14,8 @@
         "id": 2,
         "postId": 1,
         "ownerId": 1,
-        "createdAt": 100000000001,
-        "updatedAt": 100000000001,
+        "createdAt": 1519982566048,
+        "updatedAt": 1519982566048,
         "fbLastCommentId": "fb_app_id_389438942389038",
         "unRead": 0
       }
