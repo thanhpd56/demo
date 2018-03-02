@@ -136,5 +136,85 @@
         "updatedAt": 100000000000
       }
     }
+  },
+  "search\n": {
+    "threads": {
+      "4": {
+        "id": 4,
+        "postId": 1,
+        "ownerId": 3,
+        "createdAt": 100000003000,
+        "updatedAt": 100000003000,
+        "fbLastCommentId": "fb3"
+      },
+      "5": {
+        "id": 5,
+        "postId": 1,
+        "ownerId": 4,
+        "createdAt": 100004000001,
+        "updatedAt": 100004000001,
+        "fbLastCommentId": "fb4"
+      }
+    },
+    "posts": {
+      "1": {
+        "id": 1,
+        "fbId": "124389483948",
+        "content": "This is post content. Hello world",
+        "photos": [],
+        "createdAt": 100000000000,
+        "updatedAt": 100000000000,
+        "isIgnore": false,
+        "deletedAt": 100000000000
+      }
+    },
+    "comments": {
+      "3": {
+        "id": 3,
+        "postId": 1,
+        "fbId": "fb3",
+        "content": "Phan Tùng Sơn comment nè.",
+        "customerId": 4,
+        "fbPostId": "39038948334",
+        "createdAt": 100000000000,
+        "updatedAt": 100000000000,
+        "type": "TEXT"
+      },
+      "4": {
+        "id": 4,
+        "postId": 1,
+        "fbId": "fb4",
+        "content": "Comment này của Hoàng Bá Tùng",
+        "customerId": 3,
+        "fbPostId": "39038948334",
+        "createdAt": 100000400000,
+        "updatedAt": 100000400000,
+        "type": "TEXT"
+      }
+    },
+    "customers": {
+      "3": {
+        "id": 3,
+        "name": "Hoàng Bá Tùng",
+        "phone": "0987654789",
+        "email": "a@gmail.com",
+        "fbId": "1533220336761793",
+        "avatarUrl": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/12195997_812147095564907_7957494710239745869_n.jpg?oh=0c10887439809070d9c8664a78aa3ef7&oe=5AFBAB70",
+        "involveAdmins": [],
+        "createdAt": 100000000000,
+        "updatedAt": 100000000000
+      },
+      "4": {
+        "id": 4,
+        "name": "Phan Tùng Sơn",
+        "phone": "0985654789",
+        "email": "a@gmail.com",
+        "fbId": "1533220336761793",
+        "avatarUrl": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/12195997_812147095564907_7957494710239745869_n.jpg?oh=0c10887439809070d9c8664a78aa3ef7&oe=5AFBAB70",
+        "involveAdmins": [],
+        "createdAt": 100000000000,
+        "updatedAt": 100000000000
+      }
+    }
   }
 }
